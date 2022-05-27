@@ -1,4 +1,3 @@
-// Shubham made this programm//
 #include <stdio.h>
 
 int main(){
