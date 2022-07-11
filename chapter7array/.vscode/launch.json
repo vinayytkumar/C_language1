@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "e:/shubham/chapter7",
-      "program": "e:/shubham/chapter7/build/Debug/outDebug",
+      "cwd": "e:/shubham/chapter7array",
+      "program": "e:/shubham/chapter7array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
