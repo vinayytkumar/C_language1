@@ -7,7 +7,7 @@ int main()
     scanf("%d",&marks[0]);
 
     printf("enter math = ");
-    scanf("%d",&marks[1]);
+    scanf("%d",&marks[1]);//jjj
 
     printf("enter chem = ");
     scanf("%d",&marks[2]);
